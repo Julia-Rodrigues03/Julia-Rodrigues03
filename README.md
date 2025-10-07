@@ -8,8 +8,19 @@ Bem-vindo(a) ao meu perfil do GitHub.
 - 💻 Meu primeiro projeto completo foi o **[Portifolio](https://github.com/Julia-Rodrigues03/portifolio)** um site simples falando um pouco sobre mim.
 - 💻 Meu segundo projeto em progesso é **[ResetGames](https://github.com/Julia-Rodrigues03/resetgames)**, um site dinâmico para alugar de jogos.
 - 📫 Como me encontrar: [E-mail](julia.lucineia@hotmail.com) ou no [LinkedIn](https://www.linkedin.com/in/julia-rodrigu%C3%AAs-bbba991b0/).
-
 ---
+### 🎓 Formação Académica
+
+- 🎓 **Análise e Desenvolvimento de Sistemas** - [Centro Universitário Braz Cubas](https://brazcubas.br/) (2025 - Presente)
+- ---
+### 🚀 Cursos e Certificações
+
+- **PHP e MySQL: Construindo sua Primeira Aplicação Web** - [Alura Cursos Online](https://cursos.alura.com.br/user/julia-lucineia/course/carreira-desenvolvimento-back-end-php-boas-vindas/certificate)
+- **Git e GitHub: Partilhando e Colaborando em Projetos** - [Alura Cursos Online](https://cursos.alura.com.br/user/julia-lucineia/course/git-github-compartilhando-colaborando-projetos/certificate)
+- **JavaScript: Primeiros Passos na Linguagem** - [Alura Cursos Online](https://cursos.alura.com.br/user/julia-lucineia/course/javascript-entendendo-promises-async-await/certificate)
+- **Lógica de programação: praticando com desafios** -[Alura Cursos Online](https://cursos.alura.com.br/user/julia-lucineia/course/logica-programacao-praticando-desafios/certificate)
+---
+
 ### Tecnologias que estou a usar:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
