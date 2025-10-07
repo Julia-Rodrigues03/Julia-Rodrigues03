@@ -31,5 +31,3 @@ Bem-vindo(a) ao meu perfil do GitHub.
 ---
 ### Minhas Estatísticas no GitHub:
 [![Estatísticas de Julia no GitHub](https://github-readme-stats.vercel.app/api?username=Julia-Rodrigues03&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
--->
