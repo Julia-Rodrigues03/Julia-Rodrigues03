@@ -7,7 +7,7 @@ Bem-vindo(a) ao meu perfil do GitHub.
 - 📚 Atualmente estou a focada em aprender back end como: PHP, JavaScript, Node JS, sabendo tambem o basico de MySQL.
 - 💻 Meu primeiro projeto completo foi o **[Portifolio](https://github.com/Julia-Rodrigues03/portifolio)** um site simples falando um pouco sobre mim.
 - 💻 Meu segundo projeto em progesso é **[ResetGames](https://github.com/Julia-Rodrigues03/resetgames)**, um site dinâmico para alugar de jogos.
-- 📫 Como me encontrar: [E-mail](julia.lucineia@hotmail.com) ou no [LinkedIn](https://www.linkedin.com/in/julia-rodrigu%C3%AAs-bbba991b0/).
+- 📫 Como me encontrar: [Outlook](julia.lucineia@hotmail.com) ou no [LinkedIn](https://www.linkedin.com/in/julia-rodrigu%C3%AAs-bbba991b0/).
 ---
 ### 🎓 Formação Académica
 
