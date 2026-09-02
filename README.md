@@ -5,8 +5,8 @@ Bem-vindo(a) ao meu perfil do GitHub.
 
 - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UBC(Univerisidade de Braz Cubas/Cruzeiro do Sul).
 - 📚 Atualmente estou a focada em aprender back end como: PHP, JavaScript, Node JS, sabendo tambem o basico de MySQL e PostgreSQL.
-- 💻 Meu primeiro projeto  **[Portifolio](https://github.com/Julia-Rodrigues03/portifolio)** um site mostrando a linguagens que utilizo e meus principais projetos 
-- 💻 Meu projeto mais recente é **[Bytefood](https://github.com/Julia-Rodrigues03/bytefood)**, um sistema de delivery voltado mais para parte back end.
+- 💻 Meu primeiro projeto **[Portifolio](https://github.com/Julia-Rodrigues03/portifolio)** um site mostrando a linguagens que utilizo e meus principais projetos 
+- 💻 Meu projeto mais recente é **[Equalnet](https://github.com/Julia-Rodrigues03/EqualNet-APP.git)**, é um aplicativo mobile voltado para monitorar a qualidade de rede e a desigualdade digital.
 - 📫 Como me encontrar: [E-mail](julia.lucineia@hotmail.com) ou no [LinkedIn](https://www.linkedin.com/in/julia-rodrigu%C3%AAs-bbba991b0/).
 ---
 ### 🎓 Formação Académica
