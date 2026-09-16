@@ -32,4 +32,4 @@ Bem-vindo(a) ao meu perfil do GitHub.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 ### Minhas Estatísticas no GitHub:
-[![Estatísticas de Julia no GitHub](https://github-readme-stats.vercel.app/api?username=Julia-Rodrigues03&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas do GitHub](https://metrics.lecoq.io/Julia-Rodrigues03?template=classic&base=accessibility&accessibility=true)
